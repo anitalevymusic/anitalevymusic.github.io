@@ -127,7 +127,7 @@ b.light-color{ color: #444; }
 
 .left-section{ float: left; width: 50%; position: relative; }
 
-.left-section .logo{ position: absolute; top: 70px; height: 50px; }
+.left-section .logo{ position: absolute; top: 100px; height: 100px; }
 
 .left-section .logo img{ height: 100%; width: auto; } 
 
