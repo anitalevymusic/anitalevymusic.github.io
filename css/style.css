@@ -75,6 +75,9 @@ overflow:hidden;
 overflow:visible;
 }
 
+/*Adds a class for span, to create an indent for the second line of dot points :) */
+span.indented_line { padding-left: 20px ; }
+
 /* ================================================== */
 /*  header	*/ 
 /* ================================================== */
