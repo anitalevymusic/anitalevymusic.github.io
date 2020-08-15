@@ -4,7 +4,7 @@
                     function init() {
                         // Basic options for a simple Google Map
                         // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-                        var myLatlng = new google.maps.LatLng(-6.373091, 106.835175);
+                        var myLatlng = new google.maps.LatLng(-37.817405, 145.152713);
 
                         var mapOptions = {
                             // How zoomed in you want the map to start at (always required)
@@ -14,7 +14,7 @@
 
                             // The latitude and longitude to center the map (always required)
 
-                            center: myLatlng, // New York
+                            center: myLatlng, // Blackburn
 
                             // How you would like to style the map. 
                             // This is where you would paste any style found on Snazzy Maps.
