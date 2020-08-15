@@ -301,7 +301,7 @@ cursor:pointer !important;
 }
 
 .de_light .widget, .de_light .blog-list li{
-	border-color:#dddddd;
+	border-color:#ffffff;
 }
 
 @media only screen and (max-width: 992px) {
