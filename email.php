@@ -1,6 +1,6 @@
 <?php
 $subject = 'You Got Message'; // Subject of your email
-$to = 'aquietfox@gmail.com';  //Recipient's E-mail
+$to = 'hey@theskythatday.com';  //Recipient's E-mail
 $emailTo = $_REQUEST['email'];
 
 $headers = "MIME-Version: 1.1";
